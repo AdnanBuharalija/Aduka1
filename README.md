@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Aduka1/Aduka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Cybersecurity career.
 - 🌱 I’m currently learning on Georgia Tech BootCamp.
@@ -12,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: abuharalija@gmail.com
 - ⚡ Fun fact: Former Professional boxer, WBU European champion 
--->
